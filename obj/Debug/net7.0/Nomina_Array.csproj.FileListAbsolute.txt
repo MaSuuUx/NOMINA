@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\bin\Debug\net7.0\Nomina_Array.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\refint\Nomina_Array.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\bin\Debug\net7.0\Nomina_Array.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\bin\Debug\net7.0\Nomina_Array.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\bin\Debug\net7.0\Nomina_Array.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\bin\Debug\net7.0\Nomina_Array.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\Nomina_Array.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-9\Nomina_Array\obj\Debug\net7.0\ref\Nomina_Array.dll
